@@ -6,3 +6,6 @@ Edit the XML file to specific any number of videos with:
 - volume (0...1)
 - key to trigger play (or pause) of the video
 - position and size on screen (could be on any screen if you have a large number of screens connected)
+
+
+written in C++ and made with openFrameworks (v0.7.4)
