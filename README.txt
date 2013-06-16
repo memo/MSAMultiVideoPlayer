@@ -1,4 +1,5 @@
-MSAMultiVideoPlayer is a very simple application to position and play multiple videos anywhere on the screen.
+MSAMultiVideoPlayer is a very simple cross platform application to position and play multiple videos anywhere on the screen (or multiple screens).
+
 Edit the XML file to specific any number of videos with:
 - filename
 - autoplay on startup (or not)
