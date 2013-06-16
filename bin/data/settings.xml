@@ -1,0 +1,27 @@
+<MSAMultiVideoPlayer>
+    <version>1.0.0</version>
+    <settings>
+        <bgcolor>000000</bgcolor>
+        <fps>50</fps>
+        <vsync>1</vsync>
+    </settings>
+    <videos>
+        <video>
+            <file>Excelsior_short.mov</file>
+            <autoplay>1</autoplay>
+            <loop>0</loop>
+            <trigger>1</trigger>
+            <volume>1</volume>
+            <position left="100" top="0" width="320" height="240" />
+        </video>
+        
+        <video>
+            <file>whyiseveryonesofuckingstupid.mp4</file>
+            <autoplay>0</autoplay>
+            <loop>1</loop>
+            <trigger>SPACE</trigger>
+            <volume>1</volume>
+            <position left="0" top="240" />
+        </video>
+    </videos>
+</MSAMultiVideoPlayer>
